@@ -11,4 +11,4 @@ If you enter `true` in the value of the `default` concept, anyone can use the co
 
 **This sample plugin generates a command for you as in the image below.**
 
-[![https://qrearded.xyz/assets/pm4/pm4.png]]
+https://qrearded.xyz/assets/pm4/pm4.png
