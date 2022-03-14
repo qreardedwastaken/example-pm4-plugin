@@ -7,3 +7,7 @@ Dil Seçin <br />
 Bir komut oluştururken komut için yetkide oluşturmak zorundasınız. <br />
 Yetki oluştururken `default` kavramına gireceğiniz değere dikkat edin. <br />
 `default` kavramına `true` değerini girerseniz komutu herkes kullanabilir.
+
+**Bu örnek eklenti aşağıdaki resimdeki gibi komut oluşturur.**
+
+![pm4](https://qrearded.xyz/assets/pm4/pm4.png)
