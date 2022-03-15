@@ -7,9 +7,9 @@ author: qreardedwastaken
 commands:
   sendmessage:
     description: "Sends a message."
-    permission: default.use
+    permission: default.permission
   
 permissions:
-  default.use:
+  default.permission:
     description: "Does not require authorization."
     default: true
