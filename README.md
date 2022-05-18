@@ -11,4 +11,4 @@ If you enter `true` in the value of the `default` concept, anyone can use the co
 
 **This sample plugin generates a command for you as in the image below.**
 
-![pm4](https://cdn.qrearded.xyz/pocketmine-mp/pm4.png)
+![pm4](https://cdn.doukanbhey.tech/pocketmine-mp/pm4.png)
