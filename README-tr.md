@@ -10,4 +10,4 @@ Yetki oluştururken `default` kavramına gireceğiniz değere dikkat edin. <br /
 
 **Bu örnek eklenti aşağıdaki resimdeki gibi komut oluşturur.**
 
-![pm4](https://cdn.qrearded.xyz/pocketmine-mp/pm4.png)
+![pm4](https://cdn.doukanbhey.tech/pocketmine-mp/pm4.png)
